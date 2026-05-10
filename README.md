@@ -33,7 +33,7 @@ It includes:
 - Geographic distribution of total offences by postcode  
 - Top Level 2 offence categories
 
-![Crime Type Differences](images/page1-crime-type-differences.png)
+![Crime Type Differences](Images/page1-crime-type-differences.png)
 
 ---
 
@@ -52,7 +52,7 @@ It includes:
 - Top 5 postcodes with the largest absolute change in crime rate  
 - Monthly offence counts from 2017 to 2025 with COVID start and end markers
 
-![COVID-19 Impact](images/page2-covid-impact.png)
+![COVID-19 Impact](Images/page2-covid-impact.png)
 
 ---
 
@@ -69,7 +69,7 @@ It includes:
 
 The page is exploratory and shows **associations rather than causal relationships**.
 
-![Socioeconomic Patterns](images/page3-socioeconomic-patterns.png)
+![Socioeconomic Patterns](Images/page3-socioeconomic-patterns.png)
 
 ---
 
