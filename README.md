@@ -31,9 +31,7 @@ It includes:
 - Share of property vs person offences  
 - Monthly crime rates per 1,000 residents  
 - Geographic distribution of total offences by postcode  
-- Top Level 2 offence categories  
-
-![Crime Type Differences](images/page1-crime-type-differences.png)
+- Top Level 2 offence categories
 
 ---
 
@@ -50,9 +48,7 @@ It includes:
 - Average monthly crime rate by period  
 - COVID vs Pre-COVID percentage change by postcode  
 - Top 5 postcodes with the largest absolute change in crime rate  
-- Monthly offence counts from 2017 to 2025 with COVID start and end markers  
-
-![COVID-19 Impact](images/page2-covid-impact.png)
+- Monthly offence counts from 2017 to 2025 with COVID start and end markers
 
 ---
 
@@ -68,8 +64,6 @@ It includes:
 - Heatmap of crime rate by youth share and median weekly income band  
 
 The page is exploratory and shows **associations rather than causal relationships**.
-
-![Socioeconomic Patterns](images/page3-socioeconomic-patterns.png)
 
 ---
 
@@ -98,9 +92,7 @@ Key components include:
   - labour force status,
   - selected medians and averages,
   - youth population,
-  - postcode-level offence summaries  
-
-![Data Model](images/data-model.png)
+  - postcode-level offence summaries
 
 ---
 
